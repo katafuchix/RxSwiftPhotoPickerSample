@@ -24,6 +24,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+    <key>NSCameraUsageDescription</key>
+    <string>写真の投稿に使用されます</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>写真の投稿に使用されます</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>写真の投稿に使用されます</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
